@@ -35,3 +35,9 @@ We will try to update this collection periodically with new shaders and examples
 **Other:**<br/>
   * BG Gradient;
   * WireFrame Shader;
+  
+  
+## The Depth Buffer
+If you want to produce additional water shader functionality (like foams), you need to enable Depth Texture in URP settings.
+![URP Shaders Collection](https://user-images.githubusercontent.com/6201595/213838435-59bd3ba6-2ee0-45bf-9667-0c9092d61748.png "URP Shaders Collection")
+
